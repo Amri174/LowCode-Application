@@ -1,6 +1,5 @@
 # Art Gallery
 This Application developed using Oracle APEX's low-code platform using features like Drag-and-drop tools, pre-built templates, and visual modeling for rapid development. 
-<!-- Your hidden command or note here -->
 
 ## Application Description
 The Art Gallery application is a low-code platform-based project designed for efficiently managing and displaying artworks. It enables users to explore various artworks in galleries, view information about individual artworks, manage profiles, and interact with features like title, hearts and downloads. This application is built for both administrators and general users for interacting and managing resources.
