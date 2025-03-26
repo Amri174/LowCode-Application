@@ -14,9 +14,10 @@ The Art Gallery application is a low-code platform-based project designed for ef
 - Remember or auto save Workspace name, User name and Password information for future access.
 - Note: Workspace will be purged upon prolonged months of inactivity with email notice.
 
-  
-## Repository Structure
-<!-- development_captures
+
+<!-- 
+REFERENCE PURPOSE
+development_captures
 │   ├── AppBuilder.png
 │   ├── Art_Info.png
 │   ├── Artwork.png
@@ -37,18 +38,18 @@ The Art Gallery application is a low-code platform-based project designed for ef
 │   ├──Homepage_Overview.png
 │   ├──User_Profile_Overview.png
 -->
+<!-- 
 ```
 LowCode-Application/
 │
 ├── src/
-│   ├── sql_queries                  # Contains all sql queries for creating table, procedure and trigger
+│   ├── sql_queries           # Contains all sql queries for creating table, procedure and trigger
 │
-├── assets/
-│   ├── development_captures/        # Conatins screenshot of raw Low code development pages
-│   ├── application_captures/        # Contains screenshot of Live application to end users
+├── assets/                   # Conatins screenshot images of raw development pages and application pages
 │
-├── README.md                        # Summary
+├── README.md                 # Summary
 ```
+-->
 
   
 ## Application Development Structure
